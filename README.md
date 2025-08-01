@@ -17,7 +17,7 @@
 
 - 🔭 I’m currently learning **modern UIs with React + Tailwind**
 - 🔭 I’m currently working on **responsive, accessible UI components**
-- 📫 Reach me: [your-email@example.com]
+- 📫 Reach me: [sanjaymaityofficial15@gmail.com]
 - 🎯 Goal: Always learning, always building
 - 🧠 Fun fact: I turn coffee ☕ into responsive websites!
 
