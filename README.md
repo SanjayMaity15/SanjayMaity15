@@ -4,7 +4,7 @@
 </h1>
 
 <!-- Bio -->
-<h2 align="center">🚀 Frontend Developer | 💻 HTML • CSS • JavaScript • React • Tailwind CSS</h2>
+<h2 align="center">🚀 Frontend Developer | 💻 HTML • CSS • JavaScript • React • Redux • Tailwind CSS</h2>
 <p align="center">
   Passionate about building beautiful, responsive websites and turning ideas into reality with code.
 </p>
@@ -32,6 +32,7 @@
   <img src="https://img.icons8.com/color/48/css3.png" alt="CSS3" title="CSS3"/>
   <img src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript" title="JavaScript"/>
   <img src="https://img.icons8.com/plasticine/48/react.png" alt="React" title="React.js"/>
+  <img src="https://img.icons8.com/color/48/redux.png" alt="Redux" title="Redux"/>
   <img src="https://img.icons8.com/color/48/tailwind_css.png" alt="Tailwind CSS" title="Tailwind CSS"/>
   <img src="https://img.icons8.com/color/48/git.png" alt="Git" title="Git"/>
   <img src="https://img.icons8.com/material-rounded/48/000000/github.png" alt="GitHub" title="GitHub"/>
