@@ -1,68 +1,72 @@
-<!-- Hero Banner -->
-<h1 align="center">
-  Hi, I'm <strong>Sanjay Maity</strong> 
-</h1>
+<h1 align="center">Hi 👋, I'm <span style="color:#38bdf8">Sanjay Maity</span></h1>
+<h3 align="center">💻 Full Stack Developer | MERN Stack | Tech Enthusiast</h3>
 
-<!-- Bio -->
-<h2 align="center">🚀 Frontend Developer | 💻 HTML • CSS • JavaScript • React • Redux • Tailwind CSS</h2>
 <p align="center">
-  Passionate about building beautiful, responsive websites and turning ideas into reality with code.
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Full+Stack+MERN+Developer;Always+Learning+New+Tech;Building+Scalable+Apps" alt="Typing SVG" />
 </p>
 
 ---
 
-<!-- About me section -->
+## 🚀 Tech Stack
 
-### ✨ About Me
-
-- 🔭 I’m currently learning **modern UIs with React + Tailwind**
-- 🔭 I’m currently working on **responsive, accessible UI components**
-- 📫 Reach me: [sanjaymaityofficial15@gmail.com]
-- 🎯 Goal: Always learning, always building
-- 🧠 Fun fact: I turn coffee ☕ into responsive websites!
-
----
-
-<!-- Tech skill -->
-
-### ⚙️ Tech Stack
+### 🖼️ Frontend
 
 <p align="center">
-  <img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML5" title="HTML5"/>
-  <img src="https://img.icons8.com/color/48/css3.png" alt="CSS3" title="CSS3"/>
-  <img src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript" title="JavaScript"/>
-  <img src="https://img.icons8.com/plasticine/48/react.png" alt="React" title="React.js"/>
-  <img src="https://img.icons8.com/color/48/redux.png" alt="Redux" title="Redux"/>
-  <img src="https://img.icons8.com/color/48/tailwind_css.png" alt="Tailwind CSS" title="Tailwind CSS"/>
-  <img src="https://img.icons8.com/color/48/git.png" alt="Git" title="Git"/>
-  <img src="https://img.icons8.com/material-rounded/48/000000/github.png" alt="GitHub" title="GitHub"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <!-- <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" /> -->
+  <!-- <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> -->
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
+
+### 🧠 Backend
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+</p>
+
+### 🛠️ Tools & Platforms
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <!-- <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> -->
 </p>
 
 ---
 
-<!-- social media -->
-
-### 🌐 Connect with Me
+## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/[your-linkedin]" target="blank">
-    <img align="center" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/>
-  </a>
-  <a href="mailto:[your-email@example.com]">
-    <img align="center" src="https://img.icons8.com/color/48/gmail--v1.png" alt="email"/>
-  </a>
-  <a href="https://twitter.com/[your-twitter]" target="blank">
-    <img align="center" src="https://img.icons8.com/color/48/twitter--v1.png" alt="twitter"/>
-  </a>
-  <a href="https://instagram.com/[your-instagram]" target="blank">
-    <img align="center" src="https://img.icons8.com/color/48/instagram-new--v1.png" alt="instagram"/>
-  </a>
-
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/your-username"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
 
 ---
 
-  <p>⭐ Thanks for visiting my profile! ⭐</p>
+## 📌 About Me
+
+- 🔭 I’m currently working on **Real-world full stack projects**
+- 🧠 I’m learning **TypeScript, Next.js, Docker**
+- 💬 Ask me about **React, Node.js, MongoDB, APIs**
+- 👨‍💻 Always open to collaborate on meaningful projects
+- 🎯 Focused on writing clean, scalable code
 
 ---
 
+## ⚡ Fun Fact
+
+```txt
+I don't just write code — I architect systems and build experiences 🚀
+Let's connect and create something awesome!
