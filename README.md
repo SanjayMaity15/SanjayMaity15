@@ -22,7 +22,7 @@
 
 ### ⚙️ Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis,aws,gcp" />
 </p>
 
 ### 🛠 Tools
