@@ -48,19 +48,19 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:sanjaymaity052@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/your-linkedin/">
+  <a href="www.linkedin.com/in/sanjaymaity15/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   &nbsp;
-  <a href="https://github.com/your-username">
+  <a href="https://github.com/SanjayMaity15/">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
   &nbsp;
-  <a href="https://your-portfolio.com">
+  <a href="https://sanjaymaity.online">
     <img src="https://skillicons.dev/icons?i=vercel" />
   </a>
   &nbsp;
