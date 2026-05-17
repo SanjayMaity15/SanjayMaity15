@@ -52,7 +52,7 @@
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
   &nbsp;
-  <a href="www.linkedin.com/in/sanjaymaity15/">
+  <a href="https://www.linkedin.com/in/sanjaymaity15/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   &nbsp;
