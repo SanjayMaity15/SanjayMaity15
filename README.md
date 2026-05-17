@@ -60,10 +60,6 @@
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
   &nbsp;
-  <a href="https://sanjaymaity.online">
-    <img src="https://skillicons.dev/icons?i=vercel" />
-  </a>
-  &nbsp;
   <a href="https://twitter.com/your-twitter">
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
@@ -79,7 +75,6 @@ role: Full Stack Developer (MERN)
 focus: Scalable & Clean Architecture
 currently_learning:
   - TypeScript
-  - Next.js
 interests:
   - System Design
   - API Development
